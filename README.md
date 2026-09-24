@@ -14,7 +14,7 @@
   <a href="https://github.com/dx0rr0?tab=repositories">All repositories</a>
 </p>
 
-I build tools around language, knowledge and retrieval, and study models by implementing their building blocks. This is my collection of practical projects and experiments along the way.
+I've worked on different kinds of AI projects, including text, voice and images. Some started as a way to learn; others came from a problem I wanted to solve. The projects here are a selection of that work.
 
 <p align="center"><img src="assets/ornament.svg" width="460" alt="" /></p>
 
