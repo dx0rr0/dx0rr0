@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/midnight-library.png" width="100%" alt="A candlelit library overlooking a misty castle: open books, a magnifying glass and a laptop on the desk." />
+  <img src="assets/fantasy-engraving.png" width="100%" alt="A green and gold engraving of an open book, a forest path and a distant castle." />
 </p>
 
 <h1 align="center">Daniel Chorro</h1>
