@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="134" viewBox="0 0 960 134" role="img" aria-labelledby="title">
+<title id="title">Chapter III: Inside the machinery</title>
+<rect width="960" height="134" rx="6" fill="#122725"/>
+<rect x="8" y="8" width="944" height="118" rx="2" fill="none" stroke="#937748" stroke-opacity=".55"/>
+<path d="M19 31V19h12M929 19h12v12M19 103v12h12M929 115h12v-12" fill="none" stroke="#cfb781"/>
+<g transform="translate(24 13)" stroke="#cbb17b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M29 29l25 24 25-24M29 79l25-26 25 26M29 29v50M79 29v50M29 29h50M29 79h50"/><circle cx="29" cy="29" r="6" fill="#122725"/><circle cx="79" cy="29" r="6" fill="#122725"/><circle cx="54" cy="53" r="9" fill="#122725"/><circle cx="29" cy="79" r="6" fill="#122725"/><circle cx="79" cy="79" r="6" fill="#122725"/></g>
+<path d="M149 35v64" stroke="#937748" stroke-opacity=".65"/>
+<text x="181" y="48" fill="#cbb17b" font-family="Georgia,serif" font-size="15" letter-spacing="3">CHAPTER III</text>
+<text x="179" y="90" fill="#f0e7d6" font-family="Georgia,serif" font-size="35">Inside the machinery</text>
+<path d="M861 67h52m-9-8 9 8-9 8" stroke="#cbb17b" stroke-width="1.5" fill="none"/>
+</svg>

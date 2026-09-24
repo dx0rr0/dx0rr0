@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="134" viewBox="0 0 960 134" role="img" aria-labelledby="title">
+<title id="title">Chapter I: The video archive</title>
+<rect width="960" height="134" rx="6" fill="#122725"/>
+<rect x="8" y="8" width="944" height="118" rx="2" fill="none" stroke="#937748" stroke-opacity=".55"/>
+<path d="M19 31V19h12M929 19h12v12M19 103v12h12M929 115h12v-12" fill="none" stroke="#cfb781"/>
+<g transform="translate(24 13)" stroke="#cbb17b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="25" y="27" width="58" height="44" rx="4"/><path d="M38 27v44M70 27v44M25 39h13m-13 19h13m32-19h13M70 58h13M49 38l15 11-15 11z"/><path d="M20 79h68"/></g>
+<path d="M149 35v64" stroke="#937748" stroke-opacity=".65"/>
+<text x="181" y="48" fill="#cbb17b" font-family="Georgia,serif" font-size="15" letter-spacing="3">CHAPTER I</text>
+<text x="179" y="90" fill="#f0e7d6" font-family="Georgia,serif" font-size="35">The video archive</text>
+<path d="M861 67h52m-9-8 9 8-9 8" stroke="#cbb17b" stroke-width="1.5" fill="none"/>
+</svg>
