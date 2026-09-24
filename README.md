@@ -55,8 +55,6 @@ I've worked on different kinds of AI projects, including text, voice and images.
 
 ## Outside of coding
 
-<img align="right" src="assets/offline.svg" width="150" alt="Gold line drawings of an open book and a dumbbell." />
+<img align="right" src="assets/offline.svg" width="64" alt="Gold line drawings of an open book and a dumbbell." />
 
 I like reading, mostly mystery and fantasy, and going to the gym. *Dungeon Crawler Carl* is actually what got me started on TranslatEpub: I wanted to keep reading, but not all the books were available in Spanish.
-
-<br clear="all" />
