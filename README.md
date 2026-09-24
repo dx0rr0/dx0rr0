@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#the-workshop">The workshop</a> &nbsp; · &nbsp;
-  <a href="#behind-the-pages">Behind the pages</a> &nbsp; · &nbsp;
+  <a href="#outside-of-coding">Outside of coding</a> &nbsp; · &nbsp;
   <a href="https://github.com/dx0rr0?tab=repositories">All repositories</a>
 </p>
 
@@ -53,16 +53,10 @@ I've worked on different kinds of AI projects, including text, voice and images.
 
 <p align="center"><img src="assets/ornament.svg" width="460" alt="" /></p>
 
-## Behind the pages
+## Outside of coding
 
 <img align="right" src="assets/offline.svg" width="150" alt="Gold line drawings of an open book and a dumbbell." />
 
-Away from the keyboard, two of my favourite things are **reading and going to the gym**.
-
-My bookshelves lean towards **mystery and fantasy**: stories with secrets to unravel and worlds to get lost in. That is the inspiration for this little library.
-
-The other place you might find me is the gym, taking a break from the screen and putting in a different kind of work.
+I like reading, mostly mystery and fantasy, and going to the gym. *Dungeon Crawler Carl* is actually what got me started on TranslatEpub: I wanted to keep reading, but not all the books were available in Spanish.
 
 <br clear="all" />
-
-<p align="center"><sub>A few projects, a few unanswered questions, and another chapter to write.</sub></p>
