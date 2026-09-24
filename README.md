@@ -51,10 +51,20 @@ I've worked on different kinds of AI projects, including text, voice and images.
 
 `Python` · `PyTorch` · `Transformers` · `Vision + language`
 
+<br />
+
+<a href="https://github.com/dx0rr0/bitcoin-by-doing"><img src="assets/bitcoin-learning.svg" width="100%" alt="Chapter IV — Bitcoin by doing" /></a>
+
+### [Bitcoin by doing](https://github.com/dx0rr0/bitcoin-by-doing)
+
+I want to understand how Bitcoin works by experimenting with it in Python. The first session guides are ready; I'll add my code and notes as I work through them.
+
+`Python` · `Bitcoin Core` · `Learning in progress`
+
 <p align="center"><img src="assets/ornament.svg" width="460" alt="" /></p>
 
 ## Outside of coding
 
 <img align="right" src="assets/offline.svg" width="64" alt="Gold line drawings of an open book and a dumbbell." />
 
-I'm interested in investing, and I like music, reading (mostly mystery and fantasy), and going to the gym. *Dungeon Crawler Carl* is actually what got me started on TranslatEpub: I wanted to keep reading, but not all the books were available in Spanish.
+I'm interested in investing and a big Bitcoin fan. I also like music, reading (mostly mystery and fantasy), and going to the gym. *Dungeon Crawler Carl* is actually what got me started on TranslatEpub: I wanted to keep reading, but not all the books were available in Spanish.
